@@ -1,0 +1,17 @@
+{
+  "name": "primer-proyecto-node",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto node en openBotcam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo": "Hola, este es mi primer ejercicio con node en el mejor bootcamp de programacion del mundo"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "proyect"
+  ],
+  "author": "Diego",
+  "license": "ISC"
+}
